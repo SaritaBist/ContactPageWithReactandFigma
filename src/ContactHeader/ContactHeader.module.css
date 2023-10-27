@@ -1,0 +1,15 @@
+.Contact h1{
+    font-size: 48px;
+    font-weight:bolder;
+}
+.Contact p{
+    font-size: 16px;
+    height: 72px;
+   
+}
+.Contact
+{
+  
+    max-width: 950px;
+   margin: auto;
+}
